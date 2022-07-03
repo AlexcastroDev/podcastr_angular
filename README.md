@@ -34,7 +34,7 @@
 
 ## 📃 Sobre
 
-**Podcastr** é o projeto desenvolvido durante a trilha de React da quinta edição da **Next Level Week**, um evento online produzido pela [**Rocketseat**](https://github.com/Rocketseat).
+**Podcastr** é o projeto desenvolvido durante a quinta edição da **Next Level Week**, um evento online produzido pela [**Rocketseat**](https://github.com/Rocketseat).
 
 Esta é uma aplicação web que permite os usuários ouvirem seus podcasts favoritos, ver os últimos lançamentos e obter mais informações dos podcasts que estiverem ouvindo no momento.
 
@@ -44,7 +44,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias e ferramentas:
 
 - [**Angular**](https://angular.io/docs/): Angular is an application design framework and development platform for creating efficient and sophisticated single-page apps.;
 
-- [**TypeScript**](https://www.typescriptlang.org/): um super conjunto da linguagem JavaScript que fornece classes, interfaces e tipagem estática opcional. Utilizado em conjunto com React no frontend web;
+- [**TypeScript**](https://www.typescriptlang.org/): um super conjunto da linguagem JavaScript que fornece classes, interfaces e tipagem estática opcional. Utilizado em conjunto com Angular no frontend web;
 
 ## 📟 Layout
 
